@@ -1,0 +1,6 @@
+{
+  "name": "MDRRMO Carmen",
+  "description": "Emergency Incident Reporting and Response Application for the Municipal Disaster Risk Reduction and Management Office (MDRRMO) of Carmen, Surigao del Sur, Mindanao, Philippines.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
